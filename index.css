@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+body{
+    background-color: #9633ff;
+}
+.containerOne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+input{
+    border: none;
+    outline: none;
+    width: 300px;
+    font-size: 17px;
+}
+.containerTwo{
+    border: 3px solid rgb(236,225,225);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+i{
+    color: #9633ff;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 15px;
+}
